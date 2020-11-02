@@ -157,14 +157,16 @@ Method
 Grapefruit Shrub
 ================
 
-Ingredients:
-1 grapefruit
-1 cup (250 mL) sugar
-1 cup (250 mL) Raw apple cider vinegar
+Ingredients
+-----------
+- 1 grapefruit
+- 1 cup (250 mL) sugar
+- 1 cup (250 mL) Raw apple cider vinegar
 
-Method:
+Method
+------
 1. Peel grapefruit and scrape away most of the white pith. Put grapefruit into
-   a 1.5L wide mouth Mason jar and muddle. Add  sugar, vinegar and shake.
+   a 1.5 litre wide mouth Mason jar and muddle. Add  sugar, vinegar and shake.
 2. Infuse for 1 week, shaking daily.
 3. Strain the mixture, and squeeze as much liquid from the solids as possible.
 
@@ -179,24 +181,23 @@ Mix with some vodka and soda water for a great cocktail, or just soda water for 
 
    <p style="page-break-before: always"/>
 
-
 Orange Ginger Shrub
 ===================
 
 Ingredients
-½ cup (125 mL)  thinly sliced fresh ginger
-2 large oranges
-½ cup (125 mL) sugar
-1 cup (250 mL) Raw unpasturised apple cider vinegar
-½ cup (125 mL) fresh lime juice (from 4-5 limes)
+-----------
+- 1/2 cup (125 mL)  thinly sliced fresh ginger
+- 2 large oranges
+- 1/2 cup (125 mL) sugar
+- 1 cup (250 mL) Raw unpasturised apple cider vinegar
+- 1/2 cup (125 mL) fresh lime juice (from 4-5 limes)
 
-Method:
-Put the ginger slices in a 1.5L  wide mouth Mason Jar and muddle until fragrant.
-Peel the oranges and scrape away all of the white pith.
-Add the oranges to the mason jar, and muddle again.
-Pour in Lime juice, sugar and vinegar, then close the lid and shake vigorously for 10 seconds.
-
-Leave on the counter and shake once a day every day for for seven days.
-Strain the fruit mixture to remove the solids, (which are mighty tasty in a salad...)
-
-Refrigerate and it will keep for 3 - 4 months.
+Directions
+----------
+1. Put the ginger slices in a 1.5L  wide mouth Mason Jar and muddle until fragrant.
+   Peel the oranges and scrape away all of the white pith.
+2. Add the oranges to the mason jar, and muddle again.
+3. Pour in Lime juice, sugar and vinegar, then close the lid and shake
+   vigorously for 10 seconds.
+4. Leave on the counter and shake once a day every day for for seven days.
+5. Strain the fruit mixture to remove the solids, (which are mighty tasty in a salad...)

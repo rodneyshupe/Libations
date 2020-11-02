@@ -33,9 +33,13 @@ Directions
 
 Our Ginger Beer Recipe: https://youtu.be/AN_lCyc7D64
 
-Tips:
-* Use ‘organic’ ginger because this has the best chance of having a strong colony of yeast and bacteria.
-
-** Any sugar will do, the yeast will eat whatever kind you put in. The type of sugar won’t affect the taste of your ginger beer, nor will any of the sugar you use end up in the end drinkers body.
-
-***If your tapster is heavily chlorinated, use bottled water. Most municipal water now uses ‘Chloramine’ which isn’t as easy to remove as Chlorine was - so boiling or letting stand overnight doesn’t work.
+Tips
+----
+* Use ‘organic’ ginger because this has the best chance of having a strong
+  colony of yeast and bacteria.
+* Any sugar will do, the yeast will eat whatever kind you put in. The type of
+  sugar won’t affect the taste of your ginger beer, nor will any of the sugar
+  you use end up in the end drinkers body.
+* If your tap water is heavily chlorinated, use bottled water. Most municipal
+  water now uses ‘Chloramine’ which isn’t as easy to remove as Chlorine was
+  - so boiling or letting stand overnight doesn’t work.

@@ -27,6 +27,7 @@ Source: [Glenn and Friends Cooking](https://www.youtube.com/watch?v=VdZ4C4gAYto)
 
 Ingredients
 -----------
+
 - 1L water
 - 35g fresh ginger, unpeeled and chopped
 - 5g cinnamon stick
@@ -39,13 +40,9 @@ Ingredients
 - 75g (125 mL / ½ cup) lactose (optional)
 - 15 mL (1 Tbsp) vanilla extract
 
-Active ginger bug How To Make A Ginger Bug: https://youtu.be/bbgd-RS_tJ0
+Directions
+----------
 
-We Taste Tested 9 Root Beers! : https://youtu.be/zHL0e6fKaqo
-
-I bought all the roots from: https://www.herbco.com
-
-Method:
 1. Bring 1L water, chopped ginger, and cinnamon to a boil.
    Boil for 2-3 minutes.
 2. Remove from heat and add: sassafras, sarsaparilla root, cherry bark,
@@ -60,20 +57,38 @@ Method:
 
 How to Use
 ----------
-* This root beer syrup can be mixed 1 part syrup to 3 parts carbonated water
-  for a 'non-alcoholic' root beer.
 
-* For a naturally carbonated root beer:
-  1. Mix 1 part syrup to 3 parts water.
-     Mix in active ginger bug (75 mL / 1/3 cup for every 2L) https://youtu.be/bbgd-RS_tJ0 or 2 tsp beer yeast.
-  2. Pour into pressure safe bottles, filling to within 2" of top but no higher.
-     Cap and set aside at room temperature to let ferment for 2-3 days.
-     Check fermentation - then chill / store in refrigerator.
-  This will be 3-4% alcohol when finished. MAKES 4L
+Quick Version
+^^^^^^^^^^^^^
 
-* For non-alcoholic / Force carbonated Root Beer:
-  1. Mix 1 part syrup to 3 parts carbonated soda water.
-  2. Or Mix 1 part syrup to 3 parts water, and force carbonate in a corny keg or ISI bottle.
+This root beer syrup can be mixed 1 part syrup to 3 parts carbonated water
+for a 'non-alcoholic' root beer.
+
+For a naturally carbonated root beer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Mix 1 part syrup to 3 parts water.
+   Mix in active ginger bug (75 mL / 1/3 cup for every 2L) https://youtu.be/bbgd-RS_tJ0 or 2 tsp beer yeast.
+2. Pour into pressure safe bottles, filling to within 2" of top but no higher.
+   Cap and set aside at room temperature to let ferment for 2-3 days.
+   Check fermentation - then chill / store in refrigerator.
+
+This will be 3-4% alcohol when finished. MAKES 4L
+
+For non-alcoholic / Force carbonated Root Beer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Mix 1 part syrup to 3 parts carbonated soda water.
+2. Or Mix 1 part syrup to 3 parts water, and force carbonate in a corny keg or ISI bottle.
+
+Notes
+-----
+Active ginger bug How To Make A Ginger Bug: https://youtu.be/bbgd-RS_tJ0
+
+We Taste Tested 9 Root Beers! : https://youtu.be/zHL0e6fKaqo
+
+I bought all the roots from: https://www.herbco.com
+
+
 
 Other possible Root beer ingredients
 ------------------------------------

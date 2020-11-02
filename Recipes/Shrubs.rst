@@ -22,7 +22,7 @@ fruit/vegetable, sugar, and vinegar.
    <p style="page-break-before: always"/>
 
 Ingredient Combinations
------------------------
+=======================
 
 * 2 cups rubarb (cut into 1 inch pieces), 1 1/2 cups sugar, 1/2 cups red wine vinegar
 * 1 cups each of strawberries, white sugar, red wine vinegar and a splash of balsamic vinegar
@@ -123,6 +123,36 @@ Mix with some rum for a great cocktail, or just soda water for some patio sippin
 
    <p style="page-break-before: always"/>
 
+Blackberry Basil Shrub
+======================
+
+Ingredients
+-----------
+1/3 cup (75 mL) blackberries
+2/3 cup (150 mL) sugar
+6 – 8 large basil leaves
+1/3 cup (75 mL) Raw unpasturised apple cider vinegar
+1/3 cup (75 mL) Raw unpasturised balsamic vinegar
+
+Method
+------
+1. In a 1.5L wide mouth Mason jar; muddle blackberries and sugar.
+2. Slap the Basil to release it's oils and add to the jug (don't muddle the
+   basil, it will become bitter).
+3. Add the two vinegars, and shake the jug to combine (out the lid on
+   obviously...)
+   Allow the mixture to sit at room temperature for 5 to 7 days, shaking it
+   daily.
+   Strain the mixture with a fine mesh sieve and store in the refrigerator.
+4. Can be stored for 3-4 months; but you'll use it long before then.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Grapefruit Shrub
 ================

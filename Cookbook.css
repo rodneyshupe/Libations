@@ -1,0 +1,87 @@
+body, section, aside {
+  font-size: 10;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
+
+a {
+  color: #2874A6;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
+
+title, h1 {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 200%;
+  color: #2874A6;
+}
+
+h2 {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 10;
+  color: #1B4F72;
+}
+
+h2 {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 175%;
+  color: #1B4F72;
+}
+
+h3 {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 150%;
+  color: #21618C;
+}
+
+h4 {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 125%;
+  font-style: italic;
+  color: #2874A6;
+}
+
+h5 {
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  font-size: 100%;
+  font-style: italic;
+}
+
+sidebar-ul {
+  padding-left: 0px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 95%;
+  align: center;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
+
+table, th, td {
+  vertical-align: top;
+  border: 1px solid black;
+}
+
+th {
+  font-weight: bold;
+  color: white;
+  background-color:  #2874A6;
+  text-align: left;
+  vertical-align: bottom;
+  padding: 0;
+}
+
+tr:nth-child(even) {
+  background-color: #e0e0e0;
+}
+
+ulx, olx {
+  padding-top: .25;
+}
+
+li {
+  padding-top: .25;
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}
+p {
+  font-family: 'Verdana', 'Arial', 'San Francisco', 'Helvetica', sans-serif;
+}

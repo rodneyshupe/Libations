@@ -80,7 +80,11 @@ a collection of mixes, cocktails and other libations
 
    SetPageCounter 1 arabic
 
-.. include:: Recipes/DrinksAndCocktails.rst
+.. include:: Recipes/Cocktails.rst
+
+.. include:: Recipes/BatchDrinks.rst
+
+.. include:: Recipes/Mixes.rst
 
 .. include:: Recipes/Syrups.rst
 .. include:: Recipes/Shrubs.rst

@@ -1,5 +1,5 @@
 ###########################
-Recipes from the Messy Chef
+Libations by The Messy Chef
 ###########################
 
 .. raw:: pdf
@@ -8,7 +8,7 @@ Recipes from the Messy Chef
 
 .. class:: center
 
-a collection of recipes containing the favorites of Rodney Shupe and family
+a collection of mixes, cocktails and other libations
 
 .. include:: temp_substitutions.rst
 

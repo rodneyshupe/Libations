@@ -98,19 +98,19 @@ Directions
 Blackberry Shrub
 ================
 
-Ah the shrub… also known as a drinking vinegar. Don’t let the name scare you away - this sweet, sour, fruit infused syrup is refreshing when mixed with soda water and killer when used in cocktails.
-It takes a little time, but it’s well worth it.
+Ingredients
+-----------
+- 2 cup (500 mL) blackberries
+- 1 cup (250 mL) sugar
+- 1/4 cup (60 mL) Raw unpasturised balsamic vinegar
 
-Ingredients:
-2 cup (500 mL) blackberries
-1 cup (250 mL) sugar
-¼ cup (60 mL) Raw unpasturised balsamic vinegar
-
-Method:
-In a 1.5L wide mouth Mason jar, muddle the berries with the sugar. Pour in the vinegar and shake.
-let stand at room temp, for 7 days, shaking daily.
-Strain through a fine sieve, squeezing the fruit to extract as much liquid as possible.
-The syrup can be kept in the fridge for 3-4 months.
+Method
+------
+1. In a 1.5L wide mouth Mason jar, muddle the berries with the sugar. Pour in
+   the vinegar and shake. Let stand at room temp, for 7 days, shaking daily.
+2. Strain through a fine sieve, squeezing the fruit to extract as much liquid
+   as possible.
+3. The syrup can be kept in the fridge for 3-4 months.
 
 Mix with some rum for a great cocktail, or just soda water for some patio sippin’
 
@@ -128,11 +128,11 @@ Blackberry Basil Shrub
 
 Ingredients
 -----------
-1/3 cup (75 mL) blackberries
-2/3 cup (150 mL) sugar
-6 – 8 large basil leaves
-1/3 cup (75 mL) Raw unpasturised apple cider vinegar
-1/3 cup (75 mL) Raw unpasturised balsamic vinegar
+- 1/3 cup (75 mL) blackberries
+- 2/3 cup (150 mL) sugar
+- 6 – 8 large basil leaves
+- 1/3 cup (75 mL) Raw unpasturised apple cider vinegar
+- 1/3 cup (75 mL) Raw unpasturised balsamic vinegar
 
 Method
 ------
@@ -170,7 +170,8 @@ Method
 2. Infuse for 1 week, shaking daily.
 3. Strain the mixture, and squeeze as much liquid from the solids as possible.
 
-Mix with some vodka and soda water for a great cocktail, or just soda water for some patio sippin'.
+Mix with some vodka and soda water for a great cocktail, or just soda water
+for some patio sippin'.
 
 
 .. raw:: pdf

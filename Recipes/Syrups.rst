@@ -283,8 +283,8 @@ A good starting place seems to be 1 part syrup mixed with 2 parts soda water.
 
    <p style="page-break-before: always"/>
 
-Cream Soda Syrup
-================
+Orange Ade
+==========
 
 This 1938 Depression Era Orange Ade Recipe is an amazing make at home Orange crush soda pop recipe.
 

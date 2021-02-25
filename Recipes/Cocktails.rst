@@ -149,6 +149,51 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Sazerac
+=======
+
+This classic cocktail is a cousin of the Old Fashioned and has been kicking
+around since the mid 1800s.  The Sazerac is the official cocktail of
+New Orleans.
+
+Ingredients
+-----------
+
+- Absinthe, to rinse
+- 1 sugar cube
+- 1/2 teaspoon cold water
+- 3 dashes Peychaud’s bitters
+- 2 dashes Angostura bitters
+- 1 1/4 ounces rye whiskey
+- 1 1/4 ounces cognac
+- Garnish: lemon peel
+
+Directions
+----------
+1. Rinse a chilled rocks glass with absinthe, discarding any excess, and
+   set aside.
+2. In a mixing glass, muddle the sugar cube, water and the Peychaud’s and
+   Angostura bitters.
+3. Add the rye and cognac, fill the mixing glass with ice and stir until
+   well-chilled.
+4. Strain into the prepared glass.
+5. Twist the lemon peel over the drink’s surface to extract the peel’s oils,
+   and then garnish with the peel.
+
+Notes
+-----
+
+Pro Tip: have the absinthe as your second drink or do as I do and a have a
+bit in a small spritz bottle.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Moscow Mule
 ===========
 
@@ -808,6 +853,27 @@ Directions
    champagne flute.
 2. Top with Champagne. Stir gently, garnish with a long, thin lemon
    spiral and a cocktail cherry.
+
+----
+
+Irish Smokey
+============
+
+ngredients
+-----------
+
+- 2 oz Irish Whiskey
+- 2 dashes Angostura bitters
+- 1 oz simple syrup
+- 1 egg white
+- 1 oz freshly squeezed lemon juice
+- 1 oz freshly squeezed orange juice
+Directions
+----------
+
+1. Fill cocktail shaker with ice and other ingredients and shake
+   until well chilled, about 15 seconds. Strain into a coupe glass, garnish
+   with slice of orange.
 
 .. raw:: pdf
 

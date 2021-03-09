@@ -18,29 +18,56 @@ Batch Drinks
 
    <p style="page-break-before: always"/>
 
-Red Wine Picante
-================
+Sangria
+=======
 
-*Makes 4 servings*
+Ingredients
+-----------
+- 2 large juice oranges, washed; one orange sliced; remaining orange juiced
+- 1 large lemon, washed and sliced
+- 1/4 cup granulated sugar
+- 1/4 cup Triple Sec
+- 1 bottle inexpensive, fruity, medium-bodied red wine, chilled (an inexpensive Merlot is the best choice for this recipe.)
+
+Directions
+----------
+1. Add sliced orange, lemon, and sugar to large pitcher; mash gently with
+   wooden spoon until fruit releases some juice, but is not totally crushed,
+   and sugar dissolves, about 1 minute. Stir in orange juice, Triple Sec,
+   and wine; refrigerate for at least 2, and up to 8, hours.
+2. Before serving, add 6 to 8 ice cubes and stir briskly to distribute
+   settled fruit and pulp; serve immediately.
+
+----
+
+Tinto de Verano
+===============
+
+Source: `Chris Fischer and Amy Schumer <https://www.foodnetwork.com/recipes/tinto-de-verano-8705982>`__
 
 Ingredients
 -----------
 
--  1 orange, sliced into rounds
--  1 lemon, sliced into rounds
--  6 star anise
--  4 cinnamon sticks
--  1 tbsp (15 mL) whole pink peppercorns
--  750 mL red wine
--  ice cubes to serve
+- Half of a 750-milliliter bottle of your favorite Spanish red wine or cheap red wine
+- 16 ounces citrus soda, lemon-lime soda, sparkling lemonade or sparkling water
+- 2 ounces sweet vermouth, optional
+- Juice of 1 lemon plus lemon slices for garnish, optional
+- Juice of 1 orange plus orange slices for garnish, optional
 
 Directions
 ----------
 
-1. In pitcher, combine orange, lemon, star anise, cinnamon sticks and
-   peppercorns. Pour in red wine; steep 1 hr. in fridge. Serve over ice.
+1. Fill a pitcher with ice halfway, then add the red wine, citrus soda,
+   vermouth if using, lemon juice and orange juice. Garnish with lemon
+   slices, orange slices or whatever you want.
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Fresh Cherry and Strawberry Sparkling Sangria
 =============================================
@@ -66,58 +93,29 @@ Directions
 2. Divide sangria mixture among 6 glasses; top each with sparkling
    water, if desired.
 
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
-
-Sangria
-=======
-
-Ingredients
------------
-- 2 large juice oranges, washed; one orange sliced; remaining orange juiced
-- 1 large lemon, washed and sliced
-- 1/4 cup granulated sugar
-- 1/4 cup Triple Sec
-- 1 bottle inexpensive, fruity, medium-bodied red wine, chilled (an inexpensive Merlot is the best choice for this recipe.)
-
-Directions
-----------
-1. Add sliced orange, lemon, and sugar to large pitcher; mash gently with
-   wooden spoon until fruit releases some juice, but is not totally crushed,
-   and sugar dissolves, about 1 minute. Stir in orange juice, Triple Sec,
-   and wine; refrigerate for at least 2, and up to 8, hours.
-2. Before serving, add 6 to 8 ice cubes and stir briskly to distribute
-   settled fruit and pulp; serve immediately.
-
-
 ----
 
-Tinto de Verano
-===============
+Red Wine Picante
+================
 
-Source: `Chris Fischer and Amy Schumer <https://www.foodnetwork.com/recipes/tinto-de-verano-8705982>`__
+*Makes 4 servings*
 
 Ingredients
 -----------
 
-- Half of a 750-milliliter bottle of your favorite Spanish red wine or cheap red wine
-- 16 ounces citrus soda, lemon-lime soda, sparkling lemonade or sparkling water
-- 2 ounces sweet vermouth, optional
-- Juice of 1 lemon plus lemon slices for garnish, optional
-- Juice of 1 orange plus orange slices for garnish, optional
+-  1 orange, sliced into rounds
+-  1 lemon, sliced into rounds
+-  6 star anise
+-  4 cinnamon sticks
+-  1 tbsp (15 mL) whole pink peppercorns
+-  750 mL red wine
+-  ice cubes to serve
 
 Directions
 ----------
 
-1. Fill a pitcher with ice halfway, then add the red wine, citrus soda,
-   vermouth if using, lemon juice and orange juice. Garnish with lemon
-   slices, orange slices or whatever you want.
-
+1. In pitcher, combine orange, lemon, star anise, cinnamon sticks and
+   peppercorns. Pour in red wine; steep 1 hr. in fridge. Serve over ice.
 
 .. raw:: pdf
 

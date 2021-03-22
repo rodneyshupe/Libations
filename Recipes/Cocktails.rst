@@ -100,8 +100,9 @@ Caesar California
 *Created by: Simon Johnson, Cafe California (Toronto)*
 
 **Ingredients**
+
 - 1 1/2 oz. Vodka
-- 1/2 oz. Gibson's Finest Sterling Canadian Whisky
+- 1/2 oz. Canadian Whisky
 - 1/2 oz. Bull's Eye Steakhouse Barbecue Sauce
 - 1/4 oz. Allen's Malt Vinegar
 - 1/2 tsp. creamy horseradish
@@ -111,6 +112,7 @@ Caesar California
 - Ground black pepper
 
 **For the rim**
+
 - 2 cooked pieces of Canadian strip bacon
 - Celery salt
 - Maple syrup
@@ -149,6 +151,14 @@ Rim glass with celery salt and fresh basil. Add all ingredients to a
 glass with ice, pouring Clamato to the rim. Garnish with a cooked
 garlic clove, cherry tomato and a spring of rosemary. Serve and enjoy!
 
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 The Federal Caesar
 ^^^^^^^^^^^^^^^^^^
 
@@ -169,14 +179,6 @@ The Federal Caesar
 Rim a glass with celery salt and fill with ice. Add Vodka and top with
 Walter's Caesar Mix. Add freshly grated horseradish and stir. Garnish
 with a lime wedge, pickles, and Cool Ranch Doritos.
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
 
 The Van Horne Clamato
 ^^^^^^^^^^^^^^^^^^^^^

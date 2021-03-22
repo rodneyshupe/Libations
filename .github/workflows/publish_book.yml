@@ -220,7 +220,7 @@ jobs:
     - name: Build epub
       run: |
         ebook-convert "${{ env.WF_PARAM_PUBLISHED_HTML }}" "${{ env.WF_PARAM_PUBLISHED_EPUB }}" \
-          --title "Recipes From the Messy Chef" \
+          --title "The Messy Chef Makes Drinks" \
           --authors "Rodney Shupe" \
           --author-sort "Shupe Rodney" \
           --language English \

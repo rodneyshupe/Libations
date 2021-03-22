@@ -288,6 +288,13 @@ jobs:
       with:
         args: copy ${{ env.WF_PARAM_PUBLISHED_PDF }} gdrive:Cooking
 
+    - name: Push HTML to GDrive.
+      uses: wei/rclone@v1
+      env:
+        RCLONE_CONF: ${{ secrets.RCLONE_CONF }}
+      with:
+        args: copy ${{ env.WF_PARAM_PUBLISHED_HTML }} gdrive:Cooking
+
     - name: Push EPUB to GDrive.
       uses: wei/rclone@v1
       env:

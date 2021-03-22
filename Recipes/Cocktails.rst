@@ -53,16 +53,26 @@ Variations
 Traditional Caesar
 ^^^^^^^^^^^^^^^^^^
 
+**Ingredients**
+
 - 1 oz. Vodka
 - 2 dashes of hot sauce
 - 3 grinds of salt and pepper
 - 4 dashes Worcestershire sauce
 - 5 oz. Motts Clamato
 
+**Method**
+
+Rim a glass with celery salt and fill with ice. Add Vodka and mix in
+a splash of Worcestershire, hotsauce. Fill with Mott's Clamato, season
+with salt and pepper, then garnish with a lime wedge and/or celery.
+
 Caesar Arcadia
 ^^^^^^^^^^^^^^
 
-Created by: David Mulock, Ja Bistro (Toronto)
+*Created by: David Mulock, Ja Bistro (Toronto)*
+
+**Ingredients**
 
 - 1 1/2 oz. Vodka
 - 1/2 oz. fresh PEI oyster juice
@@ -70,15 +80,26 @@ Created by: David Mulock, Ja Bistro (Toronto)
 - Clamato
 - Celery salt
 
+**Method**
+
 Muddle Vodka and chili peppers in a mixing glass. Fine strain into a tall
 glass rimmed with celery salt. Pour oyster juice out of the shell into
-the glass. Add ice and fill with Clamato. Serve and enjoy!
+the glass. Add ice and fill with Clamato.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Caesar California
 ^^^^^^^^^^^^^^^^^
 
-Created by: Simon Johnson, Cafe California (Toronto)
+*Created by: Simon Johnson, Cafe California (Toronto)*
 
+**Ingredients**
 - 1 1/2 oz. Vodka
 - 1/2 oz. Gibson's Finest Sterling Canadian Whisky
 - 1/2 oz. Bull's Eye Steakhouse Barbecue Sauce
@@ -89,10 +110,12 @@ Created by: Simon Johnson, Cafe California (Toronto)
 - Clamato
 - Ground black pepper
 
-For the rim:
+**For the rim**
 - 2 cooked pieces of Canadian strip bacon
 - Celery salt
 - Maple syrup
+
+**Method**
 
 Finely chop the piece of Canadian strip bacon and mix with an equal amount
 of celery salt. Coat the top of the glass in maple syrup and press the rim
@@ -105,7 +128,9 @@ Garnish with a lime wedge and a strip of Canadian bacon. Serve and enjoy!
 La Caesar Vita
 ^^^^^^^^^^^^^^
 
-Created by: Sal Mora, Paese Ristorante (Toronto)
+*Created by: Sal Mora, Paese Ristorante (Toronto)*
+
+**Ingredients**
 
 - 1 1/2 oz. Vodka
 - 3 dashes of Crazy J's Pepper Sauce
@@ -118,6 +143,8 @@ Created by: Sal Mora, Paese Ristorante (Toronto)
 - Cooked garlic clove (for garnish)
 - Cherry tomato (for garnish)
 
+**Method**
+
 Rim glass with celery salt and fresh basil. Add all ingredients to a
 glass with ice, pouring Clamato to the rim. Garnish with a cooked
 garlic clove, cherry tomato and a spring of rosemary. Serve and enjoy!
@@ -125,7 +152,9 @@ garlic clove, cherry tomato and a spring of rosemary. Serve and enjoy!
 The Federal Caesar
 ^^^^^^^^^^^^^^^^^^
 
-Created by: Jayme Keith, The Federal (Toronto)
+*Created by: Jayme Keith, The Federal (Toronto)*
+
+**Ingredients**
 
 - 1 oz. Vodka
 - Extra spicy Caesar mix
@@ -135,32 +164,26 @@ Created by: Jayme Keith, The Federal (Toronto)
 - pickles
 - Cool Ranch Doritos
 
+**Method**
+
 Rim a glass with celery salt and fill with ice. Add Vodka and top with
 Walter's Caesar Mix. Add freshly grated horseradish and stir. Garnish
 with a lime wedge, pickles, and Cool Ranch Doritos.
 
-Pegasus Caesar
-^^^^^^^^^^^^^^
+.. raw:: pdf
 
-Created by: Richard Edwards, Pegasus (Toronto)
+   PageBreak recipePage
 
-- 1 oz. Vodka
-- splash of Worcestershire
-- splash of Tabasco
-- 1 tsp. horseradish
-- Mott's Clamato
-- Add a dash of salt and pepper
-- Seasoned salt
+.. raw:: html
 
-Rim a glass with seasoned salt and fill with ice. Add Vodka and mix in
-a splash of Worcestershire, Tabasco, and horseradish. Fill with
-Mott's Clamato, season with salt and pepper, then garnish with a lime
-wedge and pickled vegetables.
+   <p style="page-break-before: always"/>
 
 The Van Horne Clamato
 ^^^^^^^^^^^^^^^^^^^^^
 
-Created by: Jeffery Van Horne, The Press Gang (Halifax)
+*Created by: Jeffery Van Horne, The Press Gang (Halifax)*
+
+**Ingredients**
 
 - 1 cup tomato juice
 - 1/4 cup water
@@ -170,6 +193,8 @@ Created by: Jeffery Van Horne, The Press Gang (Halifax)
 - 3 stalks lemon grass
 - 3 dashes Worcestershire
 - 1/2 inch chopped ginger
+
+**Method**
 
 Combine in the same container and chill for three hours. Strain before
 use. Add 1 1/2 oz of vodka over ice and stir. Garnish with an oyster.

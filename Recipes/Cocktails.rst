@@ -111,7 +111,7 @@ Caesar California
 - Clamato
 - Ground black pepper
 
-**For the rim**
+*For the rim*
 
 - 2 cooked pieces of Canadian strip bacon
 - Celery salt

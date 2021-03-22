@@ -69,7 +69,13 @@ Notes
 -----
 This will last for at least 6-8 weeks… or longer.
 
-----
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
 
 Rosemary Simple Syrup
 =====================

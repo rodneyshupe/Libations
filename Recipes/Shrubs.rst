@@ -84,8 +84,6 @@ Directions
    then put back in the refrigerator for at least 1 to 2 days.  Pour through
    a fine mesh strainer and bottle.
 
-
-
 .. raw:: pdf
 
    PageBreak recipePage
@@ -93,7 +91,6 @@ Directions
 .. raw:: html
 
    <p style="page-break-before: always"/>
-
 
 Blackberry Shrub
 ================
@@ -114,14 +111,7 @@ Method
 
 Mix with some rum for a great cocktail, or just soda water for some patio sippin’
 
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Blackberry Basil Shrub
 ======================
@@ -173,14 +163,7 @@ Method
 Mix with some vodka and soda water for a great cocktail, or just soda water
 for some patio sippin'.
 
-
-.. raw:: pdf
-
-   PageBreak recipePage
-
-.. raw:: html
-
-   <p style="page-break-before: always"/>
+----
 
 Orange Ginger Shrub
 ===================

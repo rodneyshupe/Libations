@@ -1007,7 +1007,7 @@ Directions
 Irish Smokey
 ============
 
-ngredients
+Ingredients
 -----------
 
 - 2 oz Irish Whiskey
@@ -1016,6 +1016,7 @@ ngredients
 - 1 egg white
 - 1 oz freshly squeezed lemon juice
 - 1 oz freshly squeezed orange juice
+
 Directions
 ----------
 

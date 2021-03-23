@@ -282,8 +282,11 @@ jobs:
 
     - name: Breakout individual directories.
       run: |
+        ls -al
         cd "${{ env.OUT_DIR }}"
+        ls -al
         IFS="$"
+        cat index.html
         for HREF in $(cat index.html | hxnormalize -x | hxselect -c -s "$" 'li a::attr(href)'); do
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
             if test -f ${HTML_FILE}; then

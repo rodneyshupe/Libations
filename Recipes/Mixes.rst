@@ -56,15 +56,15 @@ Ingredients
 Directions
 ----------
 
-1. Combine ingredients in a large microwavable bowl.
-2. Microwave for 45 sec take it out stir. Microwave for an additional 45
+#. Combine ingredients in a large microwavable bowl.
+#. Microwave for 45 sec take it out stir. Microwave for an additional 45
    sec and stir again, then microwave for an additional 30 seconds.
-3. Cover in plastic wrap and put mixture into the frings for 2 hours.
-4. Once it has set scoop out 3 tablespoons with a icecream scoop into 2
+#. Cover in plastic wrap and put mixture into the frings for 2 hours.
+#. Once it has set scoop out 3 tablespoons with a icecream scoop into 2
    inch balls. Individually wrap the balls in plasic wrap and place in a
    sealable freezer bag. These will last up to 5 days in the fridge or 2
    months in the freezer.
-5. When ready to have a hot chocolate, take one ball and put in a mug
+#. When ready to have a hot chocolate, take one ball and put in a mug
    with 1 cup of milk (any kind will work) and microwave stiring
    ocationally until mixture is smooth, approx. 2 min.
 

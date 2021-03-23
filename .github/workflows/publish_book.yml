@@ -2,8 +2,8 @@ name: "Publish Libations Book"
 
 on:
   push:
-    paths:
-    - 'Recipes/**.rst'
+#    paths:
+#    - 'Recipes/**.rst'
 
 env:
   WF_PARAM_PDF_SOURCE_RST: Libations.rst
@@ -285,9 +285,10 @@ jobs:
         ls -al
         cd "${{ env.OUT_DIR }}"
         ls -al
-        IFS="$"
-        cat index.html
-        for HREF in $(cat index.html | hxnormalize -x | hxselect -c -s "$" 'li a::attr(href)'); do
+        HREFS=$(cat index.html | hxnormalize -x | hxselect -c -s '%' 'li a::attr(href)')
+        echo "DEBUG: ${HREFS}"
+        IFS='%'
+        for HREF in "${HREFS}"; do
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
             if test -f ${HTML_FILE}; then
                 FILE=$(basename ${HTML_FILE})

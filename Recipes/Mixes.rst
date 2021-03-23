@@ -31,8 +31,8 @@ Ingredients
 Directions
 ----------
 
-1. Add baking soda and salt to water and combine.
-2. Carbonate using favourite method (SodaStream, whipping siphon, etc.)
+#. Add baking soda and salt to water and combine.
+#. Carbonate using favourite method (SodaStream, whipping siphon, etc.)
 
 
 .. raw:: pdf

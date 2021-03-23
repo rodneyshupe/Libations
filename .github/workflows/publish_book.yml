@@ -271,7 +271,7 @@ jobs:
     - name: Split Published HTML into multiple files.
       run: |
         rm --recursive --force "${{ env.OUT_DIR }}"
-        mkdir -p "${{ env.OUT_DIR }}"
+        mkdir --parents "${{ env.OUT_DIR }}"
         htmldoc --format htmlsep \
             --outdir "${{ env.OUT_DIR }}" \
             --headfootfont sans \
@@ -308,7 +308,7 @@ jobs:
                     temp.html
                 #rm ${DIR_NAME}/${HTML_FILE}
                 rm ${HTML_FILE}
-                sed -i "s/${HREF}/${DIR_NAME}\/index.html/" index.html
+                sed --in-place "s/${HREF}/${DIR_NAME}\/index.html/" index.html
             else
                 echo "Unable to process ${HTML_FILE}"
             fi
@@ -318,7 +318,7 @@ jobs:
 
     - name: Bundle into tar file.
       run: |
-        tar -cf "${{ env.WF_PARAM_PUBLISHED_WWW }}" www
+        tar --create --file="${{ env.WF_PARAM_PUBLISHED_WWW }}" www
 
     - name: Save Published files
       uses: actions/upload-artifact@v2

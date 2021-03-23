@@ -289,7 +289,7 @@ jobs:
           | grep --no-messages --invert-match --ignore-case '.html#1">' \
           | sed 's/.*<li><a href="//gi' \
           | sed 's/".*//g' \
-          | sed 's/\n/ /g')"
+          | tr '\n' ' ')"
         echo "DEBUG: HREFS=${HREFS}"
         IFS=' '
         for HREF in "${HREFS}"; do

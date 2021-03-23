@@ -290,12 +290,9 @@ jobs:
         echo "DEBUG:1"
         cat index.html | hxnormalize -x
         echo "DEBUG:2"
-        cat index.html | hxnormalize -x | hxselect -i 'a'
-        echo "DEBUG:3"
-        cat index.html | hxnormalize -x | hxselect -i -c -s ' ' 'a::attr(href)'
-        HREFS="$(cat index.html | hxnormalize -x | hxselect -i -c -s ' ' 'li a::attr(href)')"
+        HREFS="$(cat index.html | hxnormalize -x | grep -i '<a HREF="' | grep  --no-messages --invert-match -i '.html#1">' | sed 's/.*<li><a href="//g' | sed 's/".*//g')"
         echo "DEBUG: HREFS=${HREFS}"
-        IFS=' '
+        #IFS=' '
         for HREF in "${HREFS}"; do
             echo "DEBUG: HREF=${HREF}"
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)

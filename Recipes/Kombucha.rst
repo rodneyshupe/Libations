@@ -39,6 +39,7 @@ experiments and research by brewers of all types from around the world.
 
 Ingredients
 -----------
+
 - 1 1/2 gallon cool, chlorine-free water
 - 6-9 tea bags or 2–3 tablespoons loose-leaf tea
 - 1 1/2 cup sugar
@@ -47,41 +48,42 @@ Ingredients
 
 Directions
 ----------
-1. Heat 1 quart of the water to just below boiling. Combine the tea and hot
+
+#. Heat 1 quart of the water to just below boiling. Combine the tea and hot
    water in the pot, a separate bowl, or in the brewing vessel. Let steep
    for 5 to 15 minutes, then remove the tea leaves.
-2. Add the sugar to the hot tea, and stir until completely dissolved.
-3. Pour the remaining 5 quarts of cool water into the brewing vessel. If
+#. Add the sugar to the hot tea, and stir until completely dissolved.
+#. Pour the remaining 5 quarts of cool water into the brewing vessel. If
    prepared separately, add the sweet tea. Dip a clean finger into the
    mixture to gauge its temperature. If warmer than body temperature (about
    100°F [38°C]), cover with a clean cloth and set aside until lukewarm.
-4. With clean hands, place the SCOBY in the sweet tea solution. Pour the
+#. With clean hands, place the SCOBY in the sweet tea solution. Pour the
    starter liquid on top of the SCOBY; this acidifies the pH of the tea
    near the top of the vessel, where the culture is most vulnerable,
    offering a layer of protection from potential pathogens.
-5. Cover the vessel with breathable cloth, secured with a rubber band if
+#. Cover the vessel with breathable cloth, secured with a rubber band if
    necessary. Set it in a warm location (ideally 75–85°F [24–29°C]), out of
    direct sunlight, unless brewing in an opaque vessel. (At this stage you
    have the option to say a prayer, send good vibes, or otherwise commune
    with your new brew. It is a culture of living organisms and responds to
    energy — positive and negative.)
-6. Allow the sweet tea to ferment for 7 to 21 days. After 5 days (or sooner,
+#. Allow the sweet tea to ferment for 7 to 21 days. After 5 days (or sooner,
    if you’re curious), it’s okay to begin tasting once a day. To taste,
    remove the cloth cover, gently insert a straw beneath the SCOBY, and take
    a sip. Or dip a shot glass or other small cup past the new layer of SCOBY
    into the brew.
-7. Once the brew reaches the flavor you prefer, it is ready to harvest.
+#. Once the brew reaches the flavor you prefer, it is ready to harvest.
    Before bottling or flavoring, collect at least 2 cup of starter liquid
    for the next batch from the top of the brew (3 cups if you can spare it
    or if the brew is young) and pour it into a clean bowl. Then remove the
    SCOBYs to the bowl, cover with a clean towel, and set aside. (We take the
    liquid first because removing the cultures can kick the yeast off the
    bottom, which is fine for drinking but not for starter liquid.)
-8. The rest of the kombucha is now available for drinking, either straight
+#. The rest of the kombucha is now available for drinking, either straight
    from the vessel or, more commonly, after bottling with or without flavors.
    For tips on flavoring, filtering, bottle-aging (to further develop the
    flavor and carbonation), and other advanced techniques.
-9. To start the next batch, use one or both of the SCOBYs, either the
+#. To start the next batch, use one or both of the SCOBYs, either the
    original and/or the new one from the previous batch, with the starter
    liquid. The extra culture may be used to start another batch or placed
    in a SCOBY Hotel. Enjoy the first batch while the second brew is in
@@ -89,6 +91,7 @@ Directions
 
 Notes
 -----
+
 We usually prepare a 1-gallon batch right in the glass vessel. However, one
 must use caution when doing so because pouring hot liquid into a cold jar
 could cause the glass to crack, creating a dangerous mess. Most of the time
@@ -128,50 +131,51 @@ this is optional.
 
    <p style="page-break-before: always"/>
 
-
 Brewing DOs and Don'ts
 ======================
 
 DOs
 ---
-* Wash the prep area, vessel, utensils, and your hands with chlorine-free
+
+- Wash the prep area, vessel, utensils, and your hands with chlorine-free
   hot water. If needed, use small amounts of nonantibacterial soap, and then
   rinse well with hot water and cure with pasteurized vinegar or kombucha
   vinegar.
-* Select a glass, food-grade ceramic, stainless steel (grade 304 or higher),
+- Select a glass, food-grade ceramic, stainless steel (grade 304 or higher),
   wood barrel, or food-grade plastic vessel for brewing.
-* Brew with filtered, distilled, spring, or bottled water.
-* Brew with real sugar and real tea (Camellia sinensis). Organic is preferred
+- Brew with filtered, distilled, spring, or bottled water.
+- Brew with real sugar and real tea (Camellia sinensis). Organic is preferred
   but not required.
-* Use a tightly woven, breathable cloth cover over your fermentation vessel
+- Use a tightly woven, breathable cloth cover over your fermentation vessel
   to prevent contamination.
-* Let the tea ferment in a relatively warm location with good airflow.
-* Allow the brew time to develop before tasting it.
-* Take starter liquid from the top of the previous batch.
-* Make a SCOBY Hotel for extra cultures and as a source of potent starter
+- Let the tea ferment in a relatively warm location with good airflow.
+- Allow the brew time to develop before tasting it.
+- Take starter liquid from the top of the previous batch.
+- Make a SCOBY Hotel for extra cultures and as a source of potent starter
   liquid.
-* Throw away any batch, both the liquid and the SCOBYs, that exhibits mold.
+- Throw away any batch, both the liquid and the SCOBYs, that exhibits mold.
 
 Don'ts
 ------
-* Don’t use antibacterial soaps or chlorinated water, which harm the
+
+- Don’t use antibacterial soaps or chlorinated water, which harm the
   bacteria in SCOBYs. Other soaps may leave a potentially harmful residue
   as well.
-* Don’t select a crystal, low-grade plastic, metal (aside from stainless
+- Don’t select a crystal, low-grade plastic, metal (aside from stainless
   steel), or decorative or antique ceramic vessel for brewing.
-* Don’t brew with chlorinated or unfiltered tap water.
-* Don’t brew with decaffeinated tea or herbal tea or with artificial
+- Don’t brew with chlorinated or unfiltered tap water.
+- Don’t brew with decaffeinated tea or herbal tea or with artificial
   sweeteners or sugar substitutes.
-* Don’t use cheesecloth (the weave is too loose) or a solid lid (the
+- Don’t use cheesecloth (the weave is too loose) or a solid lid (the
   kombucha needs oxygen).
-* Don’t let the tea ferment in direct sunlight, in a closed cupboard, or
+- Don’t let the tea ferment in direct sunlight, in a closed cupboard, or
   in a cool location.
-* Don’t disturb the fermentation vessel in the first five days. Too much
+- Don’t disturb the fermentation vessel in the first five days. Too much
   movement prevents the new SCOBY from forming properly.
-* Don’t take starter liquid from the bottom of the previous batch.
-* Don’t store all SCOBYs in one brewing vessel — you won’t have any
+- Don’t take starter liquid from the bottom of the previous batch.
+- Don’t store all SCOBYs in one brewing vessel — you won’t have any
   backups if that vessel is compromised.
-* Don’t try to salvage a moldy batch of kombucha.
+- Don’t try to salvage a moldy batch of kombucha.
 
 
 .. raw:: pdf

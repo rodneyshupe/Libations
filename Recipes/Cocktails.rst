@@ -39,12 +39,12 @@ Ingredients
 Directions
 ----------
 
-1. Rim a pint glass with celery salt
-2. Combine vodka, pickle juice, lime juice, tabasco and hot sauce in a
+#. Rim a pint glass with celery salt
+#. Combine vodka, pickle juice, lime juice, tabasco and hot sauce in a
    glass.
-3. Fill the glass with ice
-4. Top with Clamato juice
-5. Garnish with celery stalk and lime wedge (or dill pickle, pickled
+#. Fill the glass with ice
+#. Top with Clamato juice
+#. Garnish with celery stalk and lime wedge (or dill pickle, pickled
    bean or asparagus, or cold shrimp) and enjoy your Bloody Caesar.
 
 Variations

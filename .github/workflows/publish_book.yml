@@ -285,14 +285,16 @@ jobs:
         ls -al
         cd "${{ env.OUT_DIR }}"
         ls -al
+        cat index.html | hxnormalize -x
         cat index.html | hxnormalize -x | hxselect -c -s '!' 'li a::attr(href)'
-        HREFS="$(cat index.html | hxnormalize -x | hxselect -c -s '!' 'li a::attr(href)')"
-        echo "DEBUG: ${HREFS}"
-        IFS='!'
+        HREFS="$(cat index.html | hxnormalize -x | hxselect -c -s ' ' 'li a::attr(href)')"
+        echo "DEBUG: HREFS=${HREFS}"
+        IFS=' '
         for HREF in "${HREFS}"; do
+            echo "DEBUG: HREF=${HREF}"
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
+            echo "DEBUG: HTML_FILE=${HTML_FILE}"
             if test -f ${HTML_FILE}; then
-                echo "DEBUG: ${HTML_FILE}"
                 FILE=$(basename ${HTML_FILE})
                 DIR_NAME="${FILE%.html}"
                 TITLE="$(cat ${HTML_FILE} | hxnormalize -x | hxselect -c h2 | hxselect -c a)"

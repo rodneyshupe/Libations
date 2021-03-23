@@ -91,7 +91,7 @@ Ingredients
 Directions
 ----------
 
-1. In a small saucepan, bring 3/4 cup water, sugar, and rosemary to a boil,
+#. In a small saucepan, bring 3/4 cup water, sugar, and rosemary to a boil,
    stirring until sugar dissolves. Let stand 30 minutes, then strain;
    discard solids. Transfer to transfer to a bottle and refrigerate.
 

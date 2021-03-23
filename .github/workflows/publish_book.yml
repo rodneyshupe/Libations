@@ -290,7 +290,12 @@ jobs:
         echo "DEBUG:1"
         cat index.html | hxnormalize -x
         echo "DEBUG:2"
-        HREFS="$(cat index.html | hxnormalize -x | grep -i '<a HREF="' | grep  --no-messages --invert-match -i '.html#1">' | sed 's/.*<li><a href="//g' | sed 's/".*//g')"
+        HREFS="$(cat index.html \
+          | hxnormalize -x \
+          | grep --ignore-case '<a HREF="' \
+          | grep --no-messages --invert-match --ignore-case '.html#1">' \
+          | sed 's/.*<li><a href="//gi' \
+          | sed 's/".*//g')"
         echo "DEBUG: HREFS=${HREFS}"
         #IFS=' '
         for HREF in "${HREFS}"; do

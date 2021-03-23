@@ -247,12 +247,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Setup Enviorment
+    - name: Setup Environment
       run: |
-        sudo apt-get update && sudo apt-get install html-xml-utils
+        sudo apt-get update && sudo apt-get install html-xml-utils htmldoc
         mkdir www
 
-    - name: Set some Enviorment Variables.
+    - name: Set some Environment Variables.
       run: |
         PUBLISHED_FILE="${{ env.WF_PARAM_PUBLISHED_HTML }}"
         #echo "OUT_DIR=www/${PUBLISHED_FILE%.html}" >> $GITHUB_ENV
@@ -278,7 +278,7 @@ jobs:
             --no-title \
             --toclevels 2 \
             --toctitle "Contents" \
-            "Stripped_{{ env.WF_PARAM_PUBLISHED_HTML }}"
+            "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
 
     - name: Breakout individual directories.
       run: |

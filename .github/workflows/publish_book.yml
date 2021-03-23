@@ -285,9 +285,9 @@ jobs:
         ls -al
         cd "${{ env.OUT_DIR }}"
         ls -al
-        HREFS=$(cat index.html | hxnormalize -x | hxselect -c -s '%' 'li a::attr(href)')
+        HREFS=$(cat index.html | hxnormalize -x | hxselect -c -s ',' 'li a::attr(href)')
         echo "DEBUG: ${HREFS}"
-        IFS='%'
+        IFS=','
         for HREF in "${HREFS}"; do
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
             if test -f ${HTML_FILE}; then

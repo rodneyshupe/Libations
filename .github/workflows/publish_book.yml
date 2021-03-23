@@ -292,7 +292,7 @@ jobs:
           | tr '\n' '$')"
         echo "DEBUG: HREFS=${HREFS}"
         IFS='$'
-        for HREF in "${HREFS}"; do
+        for HREF in ${HREFS}; do
             echo "DEBUG: HREF=${HREF}"
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
             echo "DEBUG: HTML_FILE=${HTML_FILE}"

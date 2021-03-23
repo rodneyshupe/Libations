@@ -264,9 +264,9 @@ jobs:
       with:
         name: published-files
 
-    - name: strip TOC
+    - name: Strip TOC
       run: |
-        cat ${{ env.WF_PARAM_PUBLISHED_HTML }}" | hxremove 'aside' > Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
+        cat "${{ env.WF_PARAM_PUBLISHED_HTML }}" | hxremove 'aside' > "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
 
     - name: Split Published HTML into multiple files.
       run: |

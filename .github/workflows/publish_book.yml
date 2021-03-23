@@ -254,7 +254,7 @@ jobs:
 
     - name: Set some Enviorment Variables.
       run: |
-        PUBLISHED_FILE="${{ env.WF_PARAM_PUBLISHED_HTML }}""
+        PUBLISHED_FILE="${{ env.WF_PARAM_PUBLISHED_HTML }}"
         #echo "OUT_DIR=www/${PUBLISHED_FILE%.html}" >> $GITHUB_ENV
         echo "OUT_DIR=www" >> $GITHUB_ENV
         echo "WF_PARAM_PUBLISHED_WWW=${PUBLISHED_FILE%.html}.www.tar" >> $GITHUB_ENV

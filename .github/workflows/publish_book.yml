@@ -286,7 +286,7 @@ jobs:
         cd "${{ env.OUT_DIR }}"
         ls -al
         hxselect -v
-        hxselect
+        #hxselect
         echo "DEBUG:1"
         cat index.html | hxnormalize -x
         echo "DEBUG:2"

@@ -282,22 +282,16 @@ jobs:
 
     - name: Breakout individual directories.
       run: |
-        ls -al
         cd "${{ env.OUT_DIR }}"
-        ls -al
-        hxselect -v
-        #hxselect
-        echo "DEBUG:1"
-        cat index.html | hxnormalize -x
-        echo "DEBUG:2"
         HREFS="$(cat index.html \
           | hxnormalize -x \
           | grep --ignore-case '<a HREF="' \
           | grep --no-messages --invert-match --ignore-case '.html#1">' \
           | sed 's/.*<li><a href="//gi' \
-          | sed 's/".*//g')"
+          | sed 's/".*//g' \
+          | sed 's/\n/\$/g')"
         echo "DEBUG: HREFS=${HREFS}"
-        #IFS=' '
+        IFS='$'
         for HREF in "${HREFS}"; do
             echo "DEBUG: HREF=${HREF}"
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)

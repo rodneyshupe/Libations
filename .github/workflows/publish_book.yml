@@ -11,6 +11,7 @@ env:
   WF_PARAM_PUBLISHED_PDF: Libations.pdf
   WF_PARAM_PUBLISHED_HTML: Libations.html
   WF_PARAM_PUBLISHED_EPUB: Libations.epub
+  WF_PARAM_PUBLISHED_WWW: Libations.www.tar
   WF_REVISION_MAJOR_NUMBER_FILE: revnum_major.txt
   WF_REVISION_MINOR_NUMBER_FILE: revnum_minor.txt
 
@@ -257,7 +258,6 @@ jobs:
         PUBLISHED_FILE="${{ env.WF_PARAM_PUBLISHED_HTML }}"
         #echo "OUT_DIR=www/${PUBLISHED_FILE%.html}" >> $GITHUB_ENV
         echo "OUT_DIR=www" >> $GITHUB_ENV
-        echo "WF_PARAM_PUBLISHED_WWW=${PUBLISHED_FILE%.html}.www.tar" >> $GITHUB_ENV
 
     - name: Download latest output files.
       uses: actions/download-artifact@v2

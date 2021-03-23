@@ -88,13 +88,13 @@ Ingredients
 Directions
 ----------
 
-1. Pour the milk into a large pan, and bring almost to the boil over a
+#. Pour the milk into a large pan, and bring almost to the boil over a
    medium heat.
-2. Meanwhile, add all the chocolate mix ingredients to a large jar and
+#. Meanwhile, add all the chocolate mix ingredients to a large jar and
    give it a good shake to combine. You need around 10 heaped
    tablespoons of the chocolate mix for this amount of milk. This can be
    done months ahead.
-3. Simply spoon the chocolate mix into the hot milk, give it a good
+#. Simply spoon the chocolate mix into the hot milk, give it a good
    whisk and leave to bubble away for a few minutes before serving.
    You’re looking for that gorgeous, thick, almost claggy, knockout
    texture.

@@ -286,7 +286,12 @@ jobs:
         cd "${{ env.OUT_DIR }}"
         ls -al
         hxselect -v
-        cat index.html | hxnormalize -x | hxselect -i a
+        hxselect
+        echo "DEBUG:1"
+        cat index.html | hxnormalize -x
+        echo "DEBUG:2"
+        cat index.html | hxnormalize -x | hxselect -i 'a'
+        echo "DEBUG:3"
         cat index.html | hxnormalize -x | hxselect -i -c -s ' ' 'a::attr(href)'
         HREFS="$(cat index.html | hxnormalize -x | hxselect -i -c -s ' ' 'li a::attr(href)')"
         echo "DEBUG: HREFS=${HREFS}"

@@ -283,6 +283,7 @@ jobs:
 
     - name: Breakout individual directories.
       run: |
+        START_DIR="${PWD}"
         cd "${{ env.OUT_DIR }}"
         HREFS="$(cat index.html \
           | hxnormalize -x \
@@ -327,8 +328,7 @@ jobs:
                 echo "Unable to process ${HTML_FILE}"
             fi
         done;
-        unset IFS
-        cd ../..
+        cd "${START_DIR}"
 
     - name: Bundle into tar file.
       run: |

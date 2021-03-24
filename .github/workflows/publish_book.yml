@@ -2,8 +2,8 @@ name: "Publish Libations Book"
 
 on:
   push:
-#    paths:
-#    - 'Recipes/**.rst'
+    paths:
+    - 'Recipes/**.rst'
 
 env:
   WF_PARAM_PDF_SOURCE_RST: Libations.rst

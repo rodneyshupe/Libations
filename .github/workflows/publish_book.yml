@@ -278,7 +278,7 @@ jobs:
             --no-title \
             --toclevels 2 \
             --toctitle "Contents" \
-            --quiet
+            --quiet \
             "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
 
     - name: Breakout individual directories.
@@ -313,7 +313,7 @@ jobs:
                     --no-title \
                     --toclevels 3 \
                     --toctitle "${TITLE}" \
-                    --quiet
+                    --quiet \
                     temp.html
                 #rm ${DIR_NAME}/${HTML_FILE}
                 rm ${HTML_FILE}

@@ -297,10 +297,13 @@ jobs:
             if test -f ${HTML_FILE}; then
                 FILE=$(basename ${HTML_FILE})
                 DIR_NAME="${FILE%.html}"
+                cat ${HTML_FILE} \
+                  | hxnormalize -x
                 echo "DEBUG: Test Title"
                 cat ${HTML_FILE} \
                   | hxnormalize -x \
                   | grep --ignore-case '<h2>.*<a> HREF="'
+                echo "DEBUG: Test Title"
                 TITLE="$(cat ${HTML_FILE} \
                   | hxnormalize -x \
                   | grep --ignore-case '<h2>.*<a> HREF="' \

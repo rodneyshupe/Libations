@@ -278,6 +278,7 @@ jobs:
             --no-title \
             --toclevels 2 \
             --toctitle "Contents" \
+            --quiet
             "Stripped_${{ env.WF_PARAM_PUBLISHED_HTML }}"
 
     - name: Breakout individual directories.
@@ -290,15 +291,12 @@ jobs:
           | sed 's/.*<li><a href="//gi' \
           | sed 's/".*//g' \
           | tr '\n' ' ')"
-        echo "DEBUG: HREFS=${HREFS}"
-        #IFS=' '
         for HREF in ${HREFS}; do
-            echo "DEBUG: HREF=${HREF}"
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)
-            echo "DEBUG: HTML_FILE=${HTML_FILE}"
             if test -f ${HTML_FILE}; then
                 FILE=$(basename ${HTML_FILE})
                 DIR_NAME="${FILE%.html}"
+                cat ${HTML_FILE} | hxnormalize -x 
                 TITLE="$(cat ${HTML_FILE} | hxnormalize -x | hxselect -c h2 | hxselect -c a)"
                 echo "processing ${HTML_FILE} (${TITLE}) into ${DIR_NAME}"
                 cat ${HTML_FILE} \
@@ -315,6 +313,7 @@ jobs:
                     --no-title \
                     --toclevels 3 \
                     --toctitle "${TITLE}" \
+                    --quiet
                     temp.html
                 #rm ${DIR_NAME}/${HTML_FILE}
                 rm ${HTML_FILE}

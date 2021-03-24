@@ -302,11 +302,11 @@ jobs:
                 echo "DEBUG: Test Title"
                 cat ${HTML_FILE} \
                   | hxnormalize -x \
-                  | grep --ignore-case '<h2>.*<a> HREF="'
+                  | grep --ignore-case '<h2>.*<a .*NAME="'
                 echo "DEBUG: Test Title"
                 TITLE="$(cat ${HTML_FILE} \
                   | hxnormalize -x \
-                  | grep --ignore-case '<h2>.*<a> HREF="' \
+                  | grep --ignore-case '<h2>.*<a .*NAME="' \
                   | sed 's/<h2>.*<a[^>]*>//gi' \
                   | sed 's/<\/a>.*<\/h2>//gi' \
                   )"

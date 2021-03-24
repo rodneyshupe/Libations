@@ -298,11 +298,16 @@ jobs:
                 FILE=$(basename ${HTML_FILE})
                 DIR_NAME="${FILE%.html}"
                 echo "DEBUG: Test Title"
-                cat ${HTML_FILE} | hxnormalize -x | hxselect -i -c h2
+                cat ${HTML_FILE} \
+                  | hxnormalize -x \
+                  | grep --ignore-case '<h2>.*<a> HREF="' \
+                  | sed 's/<h2>.*<a[^>]*>//gi' \
+                  | sed 's/<\/a>.*<\/h2>//gi'
                 TITLE="$(cat ${HTML_FILE} \
                   | hxnormalize -x \
-                  | hxselect -i -c h2 \
-                  | hxselect -i -c a \
+                  | grep --ignore-case '<h2>.*<a> HREF="' \
+                  | sed 's/<h2>.*<a[^>]*>//gi' \
+                  | sed 's/<\/a>.*<\/h2>//gi' \
                   )"
                 echo "processing ${HTML_FILE} (${TITLE}) into ${DIR_NAME}"
                 cat ${HTML_FILE} \

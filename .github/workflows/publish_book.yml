@@ -300,9 +300,7 @@ jobs:
                 echo "DEBUG: Test Title"
                 cat ${HTML_FILE} \
                   | hxnormalize -x \
-                  | grep --ignore-case '<h2>.*<a> HREF="' \
-                  | sed 's/<h2>.*<a[^>]*>//gi' \
-                  | sed 's/<\/a>.*<\/h2>//gi'
+                  | grep --ignore-case '<h2>.*<a> HREF="'
                 TITLE="$(cat ${HTML_FILE} \
                   | hxnormalize -x \
                   | grep --ignore-case '<h2>.*<a> HREF="' \

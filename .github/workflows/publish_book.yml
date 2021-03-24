@@ -289,9 +289,9 @@ jobs:
           | grep --no-messages --invert-match --ignore-case '.html#1">' \
           | sed 's/.*<li><a href="//gi' \
           | sed 's/".*//g' \
-          | tr '\n' '$')"
+          | tr '\n' ' ')"
         echo "DEBUG: HREFS=${HREFS}"
-        IFS='$'
+        #IFS=' '
         for HREF in ${HREFS}; do
             echo "DEBUG: HREF=${HREF}"
             HTML_FILE=$(echo ${HREF} | cut -d'#' -f 1)

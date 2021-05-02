@@ -788,6 +788,32 @@ mint if desired.
 
    <p style="page-break-before: always"/>
 
+Harvey Wallbanger
+=================
+
+Ingredients
+-----------
+
+- 1 1/2 oz (3 parts) Vodka
+- 1/2 oz (1 part) Galliano
+- 3 oz (6 parts) Fresh orange juice
+- Maraschino cherry
+- Orange slice
+
+Directions
+----------
+
+1. Stir the vodka and orange juice with ice in the glass, then float the
+   Galliano on top. Garnish with Maraschino cherry and Orange slice.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Emerald City Martini
 ====================
 

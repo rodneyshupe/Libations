@@ -1,6 +1,8 @@
 # Libations
 
-This is a collection of Cocktails and other Libations
+A collection of Cocktails and other Libations
+
+<img src="Cover.png" alt="Cover" width="400"/>
 
 Releases are created automatically via github actions.
 

@@ -1,14 +1,9 @@
-#############################
-Libations from the Messy Chef
-#############################
+..
+   Libations: a collection of mixes, cocktails and other libations
 
 .. raw:: pdf
 
     SetPageCounter 0 lowerroman
-
-.. class:: center
-
-a collection of mixes, cocktails and other libations
 
 .. include:: temp_substitutions.rst
 
@@ -60,6 +55,15 @@ a collection of mixes, cocktails and other libations
 .. raw:: html
 
    <p style="page-break-before: always"/>
+
+#############################
+Libations from the Messy Chef
+#############################
+
+.. class:: center
+
+a collection of mixes, cocktails and other libations
+
 
 :Author: Rodney Shupe <rodney@shupe.ca>
 :Revision: |Revision|

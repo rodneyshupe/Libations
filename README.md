@@ -1,6 +1,6 @@
 # Libations
 
-A collection of Cocktails and other Libations
+A collection of mixes, cocktails and other libations.
 
 <img src="Cover.png" alt="Cover" width="400"/>
 

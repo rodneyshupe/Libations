@@ -56,6 +56,8 @@
 
    <p style="page-break-before: always"/>
 
+|
+
 .. raw:: pdf
 
    PageBreak cutePage

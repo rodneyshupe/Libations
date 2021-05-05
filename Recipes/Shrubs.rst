@@ -2,9 +2,9 @@
 
    OddPageBreak tocPage
 
-*****
-Shubs
-*****
+******
+Shrubs
+******
 
 Shrubs are drinking Vinegar and are typically made with a 1:1:1 combination of
 fruit/vegetable, sugar, and vinegar.

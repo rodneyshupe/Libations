@@ -4,6 +4,13 @@ on:
   push:
     paths:
     - 'Recipes/**.rst'
+    - '**.rst'
+    - 'Cover.png'
+    - 'Cookbook.css'
+    - 'Cookbook.style'
+    - 'Cookbook.style.json'
+
+  workflow_dispatch:
 
 env:
   WF_PARAM_PDF_SOURCE_RST: Libations.rst

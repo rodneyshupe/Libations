@@ -56,14 +56,19 @@
 
    <p style="page-break-before: always"/>
 
-#############################
+.. class:: center title
+
 Libations from the Messy Chef
-#############################
 
 .. class:: center
 
 a collection of mixes, cocktails and other libations
 
+|
+
+|
+
+|
 
 :Author: Rodney Shupe <rodney@shupe.ca>
 :Revision: |Revision|

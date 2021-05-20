@@ -320,3 +320,34 @@ How to Use
 
 Notes
 -----
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+Grapefruit Ting Syrup
+=====================
+
+Ingredients
+-----------
+
+- 680g sugar
+- 21g citric acid
+- 4 grapefruit
+- 1L water
+
+Method
+------
+
+1. Into a heatproof 4L or larger container; mix together sugar, citric acid,
+   the zest of 3 grapefruit.
+2. Add the boiling water, and mix thoroughly to dissolve all of the sugar.
+   Allow too cool to room temperature.
+3. Juice the 4 grapefruit, you should get 400-500 mL of juice.
+4. Mix the juice and the sugar water, and allow to stand for at least
+   24 hours before use. Keep in a cool place.
+5. Mix 1 part syrup to 3 parts water or club soda.

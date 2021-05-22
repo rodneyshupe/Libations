@@ -334,6 +334,26 @@ Notes
 Pro Tip: have the absinthe as your second drink or do as I do and a have a
 bit in a small spritz bottle.
 
+----
+
+Horsefeather Cocktail
+=====================
+
+Ingredients
+-----------
+
+- 2 ounces bourbon (can sub other wiskey)
+- 4 ounces ginger beer
+- 4 dashes Angostura bitters
+- lemon or lime wedge
+
+Directions
+----------
+
+1. Fill a highball glass (or mason jar) with ice. Add whiskey, ginger beer,
+   bitters, and a squeeze of lime or lemon, and stir to combine.
+2. Serve immediately, garnished with extra lemon or lime.
+
 .. raw:: pdf
 
    PageBreak recipePage

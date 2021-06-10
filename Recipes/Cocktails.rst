@@ -694,6 +694,34 @@ Directions
 
    <p style="page-break-before: always"/>
 
+Uno Mas
+=======
+
+Ingredients
+-----------
+
+- 1 oz mezcal
+- 1/2 oz. Campari
+- 1/2 pz trile sec
+- 1 1/2 oz pineapple juice
+- 1/2 oz lime juice
+- 1/2 oz agave syrup
+
+Directions
+----------
+
+1. Put all in a shaker with ice and shake.
+2. Remove and discard ice. Shake again.
+3. Strain with fine mesh strainer into a coup glass, garnish with orange twist.
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
 Daiquiri
 ========
 

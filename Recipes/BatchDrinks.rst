@@ -220,3 +220,56 @@ Directions
    anise and both bottles of wine. Gently heat the wine and after around
    5 minutes, when it’s warm and delicious, ladle it into glasses and
    serve.
+
+
+.. raw:: pdf
+
+   PageBreak recipePage
+
+.. raw:: html
+
+   <p style="page-break-before: always"/>
+
+
+Beergarita
+==========
+
+Beergarita’s are a yummy combination of Beer, Tequila, and Lime. This is a
+very simple variation and is a great (and easy to make) party drink.
+
+Ingredients
+-----------
+
+- 3oz. Tequila
+- 1 can frozen concentrated limeade
+- 3 cans (or bottles) of lager beer (I use Molson Canadian) chilled as cold
+  as possible.
+
+Directions
+----------
+
+1. Add Tequila and frozen limeade to a 2 litre container / jug and stir
+   until combined.
+2. Add beer and mix.
+3. Pour into Margarita glasses.
+
+----
+
+Vodka SHandy
+============
+
+Ingredients
+-----------
+
+- 3oz. Tequila
+- 1 can frozen concentrated lemonade
+- 3 cans (or bottles) of lager beer (I use Molson Canadian) chilled as cold
+  as possible.
+
+Directions
+----------
+
+1. Add Vodka and frozen lemonade to a 2 litre container / jug and stir
+   until combined.
+2. Add beer and mix.
+3. Pour into Margarita glasses.

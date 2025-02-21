@@ -255,7 +255,7 @@ Directions
 
 ----
 
-Vodka SHandy
+Vodka Shandy
 ============
 
 Ingredients

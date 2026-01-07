@@ -32,7 +32,7 @@ Ingredients
 - 1 26 oz bottle irish whiskey
 
 1. Mix all ingredients, combine them with an immersion blender
-2. Pour the mixture back into the whiskey bottle and refrigerate.  
+2. Pour the mixture back into the whiskey bottle and refrigerate.
 3. Serve chilled over ice.
 
 .. raw:: pdf

@@ -46,15 +46,25 @@ Ingredients
 Eggnog
 ======
 
+Source: `Dr. Rebecca Lancefield's Eggnog, Science Friday <https://www.sciencefriday.com/segments/spiked-eggnog-recipe-science/>`__
+
 Ingredients
 -----------
-- 2 cups cream (separated)
-- 2 eggs
+- 1 cup heavy cream
+- 1 cup light cream
+- 3 eggs
 - 1 cup rum
-- 1/2 bourbon or rye whiskey
+- 1/2 cup bourbon or rye whiskey
 - 1/2 cup sugar
+- Nutmeg, to taste
 
-1. Using a hand mixer, whip 1 cup of cream in a medium bowl until stiff peaks form.
-2. In a large bowl, use the same hand mixer to beat the eggs, then slowly drizzle in the rum and whiskey while the mixer is running (this prevents egg proteins from precipitating).
-3. Next mix in the remaining cup of cream.
-4. Folding and then mix in the whipped cream.  Pour into a jar with a loose-fitting lid and place in the refrigerator for 3 weeks.
+1. Using a hand mixer, whip the heavy cream in a medium bowl until
+   stiff peaks form.
+2. In a large bowl, use the same hand mixer to beat the eggs, then
+   slowly drizzle in the rum and whiskey while the mixer is running
+   (this prevents egg proteins from precipitating).
+3. Next mix in the light cream, then the sugar and nutmeg, until the
+   sugar dissolves.
+4. Gently fold in the whipped cream. Pour into a jar and refrigerate
+   overnight with the lid slightly ajar, then seal the jar and
+   refrigerate for 3 weeks.
